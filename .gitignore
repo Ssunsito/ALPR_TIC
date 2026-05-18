@@ -38,6 +38,7 @@ models/**/*.keras
 models/**/*.tflite
 models/**/saved_model.pb
 models/**/variables.*
+models/detector_savedmodel/
 
 # OS / editor
 .DS_Store
