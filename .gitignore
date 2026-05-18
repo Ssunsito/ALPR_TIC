@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Notebook
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+runs/
+
+# Datasets and large local assets
+dataset_alpr/
+dataset_publico_placas/
+dataset_publico_placas_smallfar/
+
+# Training artifacts
+archive/
+
+# Report artifacts
+reportes/**/graficas/
+reportes/**/tablas/
+reportes/**/*.docx
+reportes/**/*.csv
+reportes/**/*.json
+reportes/**/*.png
+
+# Model binaries and exports
+models/**/*.pt
+models/**/*.h5
+models/**/*.keras
+models/**/*.tflite
+models/**/saved_model.pb
+models/**/variables.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
