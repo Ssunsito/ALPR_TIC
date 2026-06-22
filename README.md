@@ -2,7 +2,6 @@
 
 Plataforma ALPR para Jetson Nano organizada para reproducir inferencia, evaluación y documentación de presentación.
 
-Este repositorio está preparado para publicarse en GitHub con el nombre `ALPR_TIC`.
 
 ## Resumen
 
@@ -102,6 +101,3 @@ Los resultados generados por las evaluaciones se concentran en `results/`.
 - [environment/jetson_setup.md](environment/jetson_setup.md)
 - [data/README_dataset.md](data/README_dataset.md)
 
-## Publicación en GitHub
-
-Para publicar el repositorio con el nombre `ALPR_TIC`, crea el repositorio remoto con ese nombre y luego sube este árbol local. Desde aquí ya quedó listo el contenido y la portada.
