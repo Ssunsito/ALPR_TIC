@@ -1,0 +1,18 @@
+{
+  "modelo_detector": "models\\plate_detector_best.pt",
+  "backend": "YOLO/Ultralytics",
+  "pipeline": "inference_jetson.py (recorte detecci\u00c3\u00b3n-only para PC)",
+  "eval_images_total": 1890,
+  "eval_images_requested": 1905,
+  "fps_global": 5.079648111027054,
+  "latency_ms_mean": 30.8663880421716,
+  "latency_ms_p95": 62.49065495794639,
+  "cpu_percent_mean": 18.263809523809524,
+  "rss_mb_mean": 971.6915405919312,
+  "gpu_util_mean": 21.29100529100529,
+  "gpu_mem_used_mb_mean": 755.1978835978836,
+  "target_fps_sim_jetson": 8.0,
+  "imgsz": 640,
+  "conf_threshold": 0.05,
+  "policy": "ALPR 60/30/10; publico y smallfar solo val/test; smallfar reforzando distancia larga"
+}

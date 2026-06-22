@@ -10,7 +10,7 @@ CONFIG = {
     "detector_model": "models/plate_detector_best.pt",
     "detector_fallback_model": "models/plate_detector_best.pt",
     "enable_detector_fallback": True,
-    "ocr_model": "models/optimized/ocr_crnn_ctc_int8.tflite",
+    "ocr_model": "models/ocr_crnn.tflite",
     "ocr_engine": "rapidocr-lpr",
     "ocr_simple_fallback_to_model": True,
     "ocr_paddle_lang": "latin",

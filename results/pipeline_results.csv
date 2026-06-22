@@ -1,0 +1,12 @@
+metric,value
+frames_evaluated,1833.0
+plates_detected,1833.0
+roi_sent_to_ocr,1833.0
+ocr_generated,1833.0
+valid_format,1827.0
+complete_correct,1360.0
+char_correct,12259.0
+char_total,12831.0
+det_latency_ms_mean,29.080251336137856
+ocr_latency_ms_mean,922.5721496461057
+end_to_end_fps_est,1.050803842839943

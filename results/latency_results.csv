@@ -1,0 +1,13 @@
+stage,metric,value,source
+detection,fps_global,5.079648111027054,detection_latency.json
+detection,latency_ms_mean,30.8663880421716,detection_latency.json
+detection,latency_ms_p95,62.49065495794639,detection_latency.json
+detection,cpu_percent_mean,18.263809523809524,detection_latency.json
+detection,rss_mb_mean,971.6915405919312,detection_latency.json
+detection,gpu_util_mean,21.29100529100529,detection_latency.json
+detection,gpu_mem_used_mb_mean,755.1978835978836,detection_latency.json
+ocr,ocr_latency_ms_mean,923.4770536970449,ocr_latency.json
+ocr,ocr_latency_ms_p95,1115.4404000146315,ocr_latency.json
+ocr,det_latency_ms_mean,28.875291289129215,ocr_latency.json
+ocr,effective_fps_end_to_end,1.1562347709771472,ocr_latency.json
+ocr,total_runtime_s,1634.6161242000526,ocr_latency.json

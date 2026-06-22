@@ -1,0 +1,9 @@
+Escenario,Total placas,TP,FP,FN,PrecisiÃ³n,Recall,F1-score,Confianza promedio
+Frontal,304,304,0,0,1.0,1.0,1.0,0.679
+Distancia corta,266,265,0,1,1.0,0.996,0.998,0.691
+Distancia media,267,267,0,0,1.0,1.0,1.0,0.672
+Distancia larga,215,212,0,3,1.0,0.986,0.993,0.617
+Ãngulo leve,229,229,0,0,1.0,1.0,1.0,0.674
+Ãngulo pronunciado,190,190,0,0,1.0,1.0,1.0,0.649
+Buena iluminaciÃ³n,229,227,0,2,1.0,0.991,0.996,0.683
+Baja iluminaciÃ³n,190,189,0,1,1.0,0.995,0.997,0.665

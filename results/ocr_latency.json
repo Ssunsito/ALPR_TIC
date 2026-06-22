@@ -1,0 +1,10 @@
+{
+  "selected_images": 1890.0,
+  "detected_images": 1745.0,
+  "ocr_latency_ms_mean": 923.4770536970449,
+  "ocr_latency_ms_p95": 1115.4404000146315,
+  "det_latency_ms_mean": 28.875291289129215,
+  "ocr_conf_mean": 0.0024126074498567337,
+  "total_runtime_s": 1634.6161242000526,
+  "effective_fps_end_to_end": 1.1562347709771472
+}

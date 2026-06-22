@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+ultralytics
+xlsxwriter
+python-docx
+Pillow
+psutil

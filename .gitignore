@@ -23,6 +23,32 @@ dataset_publico_placas_smallfar/
 # Training artifacts
 archive/
 
+# Repository content not included in the public GitHub layout
+reportes/
+outputs/
+runs/
+dataset_alpr/
+dataset_publico_placas/
+dataset_publico_placas_smallfar/
+quantize_models.py
+setup_and_validate.py
+test_import.py
+test_opcion_c.py
+test_output.txt
+test_pc_images.py
+train_detector.py
+train_detector_small_far_yolo.py
+ACCIONES_REALIZADAS_v2.md
+BANCO_PARRAFOS_REDACTADOS.md
+ESTRUCTURA_TESIS_METODOLOGIA.md
+GUIA_RAPIDA_REDACCION_TESIS.md
+MAPA_ARCHIVOS_A_CAPITULOS_TESIS.md
+MARCO_TEORICO_TEMAS.md
+README_SUITE_DOCUMENTACION.md
+
+# Personal workspace
+personal/
+
 # Report artifacts
 reportes/**/graficas/
 reportes/**/tablas/
