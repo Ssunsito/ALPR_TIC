@@ -9,10 +9,16 @@ También existe una variante `dataset_publico_placas_smallfar/` para casos de c�
 
 Consulta también [origen_licencia_dataset.md](origen_licencia_dataset.md) para dejar formalmente escrita la trazabilidad.
 
-## Debe documentarse
+## Regla de partición train/val.
 
-- Origen de las imágenes.
-- Regla de partición train/val.
-- Número de imágenes por conjunto.
-- Ejemplos de placas sintéticas o reales.
-- Convención de nombre usada para extraer el ground truth.
+Se sigue una regla de partición del dataset 60/30/10:
+
+60%: Entrenamiento
+30%: Validación
+10%: Pruebas
+
+## Número de imágenes por conjunto.
+
+Entrenamiento: 11428 imágenes
+Validación: 5730 imágenes
+Pruebas: 1890 imágenes
